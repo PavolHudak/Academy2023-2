@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-serus velky svet 
-=======
-serus maly svet 
->>>>>>> dbb415bb0c40e7e2a84b407a4c6ef450cf6373de
+serus velky maly svet 
 ja som palo
 wualáaa
